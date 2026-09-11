@@ -1,0 +1,16 @@
+{
+  "name": "Meu Quiz Interativo",
+  "short_name": "QuizLocal",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#eef2f3",
+  "theme-color": "#27ae60",
+  "description": "Um formulário simples e responsivo feito com arquitetura PWA.",
+    "icons": [
+    {
+      "src": "icone.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
